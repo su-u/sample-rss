@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <!-- Here goes some general info about your site -->
+        <atom:link href="https://maxschmitt.me/feed.rss" rel="self" type="application/rss+xml" />
+        <title>normal RSS Sample</title>
+        <link>https://social-dog.net/trend/</link>
+        <description>Twitterや関連サービス、SNSマーケティングに関する最新情報や役立つ情報をお伝えします。by Twitterマーケティングのためのオールインワンツール「SocialDog」</description>
+        <language>ja</language>
+        <!-- Every <item> contains a blog post -->
+        <item>
+            <title>1.5億のツイート分析からみる「Twitterのベストな投稿時間」とは。 | Social Media Trend</title>
+            <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+            <link>https://social-dog.net/trend/p-a-1</link>
+            <guid>https://social-dog.net/trend/p-a-1</guid>
+            <description>Twitterユーザーの1億5000万以上のツイートを基に、時間帯別ツイート分析結果とそれに基づく最適な投稿時間について詳しく解説します。</description>
+        </item>
+        <!-- Here is another <item> -->
+        <item>
+            <title>1.5億のツイート分析からみる「Twitterのベストな投稿時間」とは。 | Social Media Trend</title>
+            <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+            <link>https://social-dog.net/trend/p-a-1</link>
+            <guid>https://social-dog.net/trend/p-a-1</guid>
+            <description>Twitterユーザーの1億5000万以上のツイートを基に、時間帯別ツイート分析結果とそれに基づく最適な投稿時間について詳しく解説します。</description>
+        </item>
+        <!-- ... -->
+    </channel>
+</rss>
