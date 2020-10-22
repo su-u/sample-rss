@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <!-- Here goes some general info about your site -->
+        <atom:link href="https://maxschmitt.me/feed.rss" rel="self" type="application/rss+xml" />
+        <title>twitter:imageのみ</title>
+        <link></link>
+        <description>ＤＸライブラリ　関数リファレンスページ</description>
+        <language>ja</language>
+        <!-- Every <item> contains a blog post -->
+        <item>
+            <title>陸の孤島生活を通販で耐え抜く</title>
+            <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+            <link>https://recolog.winterer.app/20200810/</link>
+            <guid>https://recolog.winterer.app/20200810/</guid>
+            <description>Twitterユーザーの1億5000万以上のツイートを基に、時間帯別ツイート分析結果とそれに基づく最適な投稿時間について詳しく解説します。</description>
+        </item>
+        <!-- Here is another <item> -->
+        <item>
+            <title>ＤＸライブラリ　関数リファレンスページ</title>
+            <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+            <link>https://dxlib.xsrv.jp/dxfunc.html</link>
+            <guid>https://dxlib.xsrv.jp/dxfunc.html</guid>
+            <description>Twitterユーザーの1億5000万以上のツイートを基に、時間帯別ツイート分析結果とそれに基づく最適な投稿時間について詳しく解説します。</description>
+        </item>
+        <!-- ... -->
+    </channel>
+</rss>
