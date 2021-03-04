@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <!-- Here goes some general info about your site -->
+        <atom:link href="https://sample-rss.netlify.app/4/rss.xml" rel="self" type="application/rss+xml" />
+        <title>twitter:imageのみ</title>
+        <link></link>
+        <description>ＤＸライブラリ　関数リファレンスページ</description>
+        <language>ja</language>
+        <!-- Every <item> contains a blog post -->
+        <item>
+            <title>陸の孤島生活を通販で耐え抜く</title>
+        </item>
+        <!-- Here is another <item> -->
+        <item>
+            <title>陸の孤島生活を通販で耐え抜く</title>
+        </item>
+        <!-- ... -->
+    </channel>
+</rss>
