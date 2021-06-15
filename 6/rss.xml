@@ -9,13 +9,13 @@
         <language>ja</language>
         <!-- Every <item> contains a blog post -->
         <item>
-            <title>0.11</title>
-            <link>javascript:console.log('aaa');</link>
+            <title>1</title>
+            <link>https://recolog.winterer.app/202008101/</link>
             <description>Twitterユーザーの1億5000万以上のツイートを基に、時間帯別ツイート分析結果とそれに基づく最適な投稿時間について詳しく解説します。</description>
         </item>
         <item>
-            <title>1</title>
-            <link>https://recolog.winterer.app/202008101/</link>
+            <title>0.11</title>
+            <link>javascript:console.log('aaa');</link>
             <description>Twitterユーザーの1億5000万以上のツイートを基に、時間帯別ツイート分析結果とそれに基づく最適な投稿時間について詳しく解説します。</description>
         </item>
         <!-- Here is another <item> -->
